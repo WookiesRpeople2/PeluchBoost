@@ -32,4 +32,8 @@ fronend:
 Please make sure to copy the values form the .env.example and paste them in a new file .env
 
 here is the .env.example:
+```
+https://github.com/WookiesRpeople2/PeluchBoost.git
+```
+
 
