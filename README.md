@@ -33,7 +33,9 @@ Please make sure to copy the values form the .env.example and paste them in a ne
 
 here is the .env.example:
 ```
-https://github.com/WookiesRpeople2/PeluchBoost.git
+DATABASE_URL=jdbc:mysql://mysql:3306/peluchBoost?allowPublicKeyRetrieval=true
+DATABASE_USER=root
+DATABASE_PASSWORD=password
 ```
 
 
